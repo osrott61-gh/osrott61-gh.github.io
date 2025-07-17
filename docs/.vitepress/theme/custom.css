@@ -1,0 +1,9 @@
+:root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+}
+
+.VPHomeHero .name {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
